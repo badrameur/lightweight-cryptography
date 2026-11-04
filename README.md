@@ -1,7 +1,6 @@
 # TP2 — Lightweight Cryptography (ASCON + Lightweight Hashes)
 
-Implémentation du protocole d'authentification décrit dans
-[`../TP2_Lightweight_Cryptography.md`](../TP2_Lightweight_Cryptography.md).
+Implémentation pédagogique d’un protocole d’authentification utilisant ASCON-AEAD et des fonctions de hachage légères. Le projet comprend une démonstration locale, un client et un serveur TCP, ainsi qu’un benchmark.
 
 ## Contenu du dossier
 
